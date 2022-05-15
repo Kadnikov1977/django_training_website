@@ -1,0 +1,8 @@
+cd c:\Djangoweb\venv\Scripts\
+
+activate
+
+cd c:\Djangoweb\landingpagewebsite_root
+
+python manage.py runserver
+
